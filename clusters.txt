@@ -1,0 +1,57 @@
+CORDINATES:
+- WHITE:(6,2),(3,5),(1,6),(2,7)(OUTLIERS)
+    - appolo tyres
+    - bajaj finance
+    - kotak mahindra
+    - tech mahindra
+- BLACK:(0,9),(0,0 LP),(9,0),(8,9),(9,8),(9,4)
+    - BAJAJ AUTO
+    - EICHER
+    - GILLETTE
+    - JSW STEEL
+    - NESTLE
+    - SHREE CEMENTS
+- VERY LIGHT PURPLE :(0,4),(3,9),(0,2),(8,2),(5,9),(0,7)(MIX 1)
+    - AURO PHARMA
+    - BRITANIA
+    - COLGATE
+    - WIPRO
+    - L&T
+- VV LIGHT PURPLE:(1,0),(5,5),(8,3)(MIX 1)
+    - BAJAJ FINSERV
+    - HCL TECH
+    - SUN PHARMA
+    - TITAN
+- PURPLE(0,1)(2,9)(7,9)
+    - HERO MOTO
+    - SBI
+    - ULTRA TECH CEMENT
+- LIGHT PURPLE(5,9)(8,6)(8,4)
+    - GRASIM
+    - MARUTI 
+    - MRF
+- LIGHT DARK GREEN (1,8)(3,3)(4,2)(2,1)(5,0)(1,2)(4,3)
+    - ONGC
+    - APPOLO TYPRES
+    - ASIAN PAINTS
+    - BPCL
+    - MANNAPURAM FINANCE
+    - HIND ZINC
+    - NTPC
+    - IOC
+- LIGHT GREEN (1,1)(3,2)(3,8)(6,7)
+    - AXIS BANK
+    - HDFC
+    - HINDALCO
+    - ICICI
+    - RELIANCE
+    - TATA STEEL
+    - HIND OIL EXPLORER
+    - HUL
+    - TCS
+    - LUPIN
+- IVORY(2,3)(2,5)(4,7)
+    - CIPLA
+    - JK TYRE
+    - TVS MOTORS
+    - M & M FINANCE
