@@ -4,6 +4,8 @@ This project uses Self Organizing Map to create cluster of stocks .
 
 The dataset contains 10 years of historic data of 50 different stocks.
 
+You can tweak the SOM by making changes in minisom.py
+
 To run the file keep som.py in the same folder as minisom.py and __pycache__.
 
 The stocks are grouped based on the similar coloured position in the map
