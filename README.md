@@ -1,6 +1,6 @@
 # Self-Organizing-Map-Stocks-Cluster
 
-This project uses Self Organizing Map to create cluster of stocks .
+This project uses Self Organizing Map to create cluster of stocks with similar movement in prices or similarity in features.
 
 The dataset contains 10 years of historic data of 50 different stocks.
 
