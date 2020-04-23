@@ -14,3 +14,5 @@ grps.npy file contains the cluster that were obtained from the SOM.
 
 Cluster.txt contains the list of stocks in respective cluster obtained.
 
+Note :- Since this a unsupervised learning algorithm, running the file each time may generate different outputs and maps. So your generated output may not be same as output in this repository
+
